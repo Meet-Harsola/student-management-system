@@ -1,0 +1,22 @@
+# SQLite database files
+students.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Operating system files
+.DS_Store
+
+# VS Code workspace settings (optional)
+.vscode/
